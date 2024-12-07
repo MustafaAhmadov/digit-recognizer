@@ -9,7 +9,7 @@ This is a simple project that demonstrates handwritten digit recognition using a
 ---
 
 ## **Live Demo**
-🌐 Try it here: [Digit Recognizer](https://MustafaAhmadov.github.io/digit-recognizer/)
+🌐 Try it here: [Digit Recognizer](https://MustafaAhmadov.github.io/digit-recognizer/canvas.html)
 
 ---
 
