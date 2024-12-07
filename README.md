@@ -39,7 +39,6 @@ This is a simple project that demonstrates handwritten digit recognition using a
 
 ## **Project Files**
 - **`canvas.html`**: Main HTML file for the demo.
-- **`preview.gif`**: A preview of the project in action.
 - **`model/`**: Contains the trained model (optional if used for predictions).
 - **`notebooks/`**: Code used to train the CNN model.
 
