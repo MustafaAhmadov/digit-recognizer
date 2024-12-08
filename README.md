@@ -1,7 +1,3 @@
-Here’s a simplified and clean README for your project:
-
----
-
 # **Digit Recognizer**
 
 This is a simple project that demonstrates handwritten digit recognition using a Convolutional Neural Network (CNN). The web-based interface lets users draw digits on a canvas and see real-time predictions.
